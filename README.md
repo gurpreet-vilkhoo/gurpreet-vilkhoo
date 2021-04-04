@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GURPREET SINGH VILKHOO
 - 
 - 👀 I’m interested in data visualisation and using domain knowledge to solve business problems.
-- 🌱 I’m currently exploring ALteryx community and attending various sessions on Data science.
+- 🌱 I’m currently exploring Apache Spark and attending various seminars on Data science.
 - 💞️ I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - ⚡ Hobbies- Reading macro-economic and global trends
 - 📫 How to reach me - Gmail- gurpreet.vilkhoo@gmail.com Linkedin- https://www.linkedin.com/in/gurpreet-vilkhoo-673a19ba/
